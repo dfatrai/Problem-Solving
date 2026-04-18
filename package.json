@@ -1,1 +1,1 @@
-{\n  \"name\": \"problem-solving\",\n  \"version\": \"1.0.0\",\n  \"description\": \"A Node.js project for problem solving\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"test\": \"echo 'Error: no test specified' && exit 1\"\n  },\n  \"keywords\": [],\n  \"author\": \"dfatrai\",\n  \"license\": \"ISC\"\n}
+{ "name": "problem-solving", "version": "1.0.0", "description": "A web app created with Bolt.new", "main": "index.js", "scripts": { "dev": "vite", "build": "vite build", "preview": "vite preview" }, "dependencies": {}, "devDependencies": { "vite": "^5.0.0" } } 
